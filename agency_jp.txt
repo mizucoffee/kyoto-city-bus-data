@@ -1,0 +1,2 @@
+﻿agency_id,agency_official_name,agency_zip_number,agency_address,agency_president_pos,agency_president_name
+2000020261009,京都市交通局,6168104,京都府京都市右京区太秦下刑部町１２番地,公営企業管理者交通局長,山本　耕治
